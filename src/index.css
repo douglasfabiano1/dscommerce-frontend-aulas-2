@@ -219,7 +219,8 @@ nav a {
   color: var(--dsc-color-font-primary);
 }
 
-.dsc-search-bar button, .dsc-search-bar input {
+.dsc-search-bar button,
+.dsc-search-bar input {
   border: 1px solid var(--dsc-color-card-border);
 }
 
